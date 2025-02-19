@@ -1,0 +1,49 @@
+_repo: X-ray-violet-ray-and-other-rays-b-With-their-use-in-modern-medicine_75150
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shipley, Maynard
+    birthdate: 1872
+    deathdate: 1934
+    gutenberg_agent_id: '57856'
+    url: http://www.gutenberg.org/2009/agents/57856
+    wikipedia: https://en.wikipedia.org/wiki/Maynard_Shipley
+  editor:
+    agent_name: Haldeman-Julius, E. (Emanuel)
+    aliases:
+    - Haldeman-Julius, Emanuel
+    - Julius, Emanuel
+    birthdate: 1888
+    deathdate: 1951
+    gutenberg_agent_id: '486'
+    url: http://www.gutenberg.org/2009/agents/486
+    wikipedia: https://en.wikipedia.org/wiki/E._Haldeman-Julius
+description: ''
+gutenberg_issued: '2025-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75150'
+  lccn: '2004564138'
+language: en
+pgterms:marc904: https://archive.org/details/xrayvioletrayoth1050ship/page/n3/mode/2up
+pgterms:marc905: 20241205142626shipley
+pgterms:marc906: '1926'
+pgterms:marc907: US
+production_note: Bob Taylor, Tim Miller and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aGirard :$bHaldeman-Julius Company, $c1926.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Little blue book ; no. 1050
+subjects:
+- !lcsh 'X-rays'
+- !lcsh 'X-rays -- Therapeutic use'
+- !lcsh 'Ultraviolet radiation'
+- !lcsh 'Ultraviolet radiation -- Therapeutic use'
+- !lcc 'QC'
+- !lcc 'RC'
+- GITenberg
+title: 'X-ray, violet ray, and other rays : $b With their use in modern medicine'
+url: http://www.gutenberg.org/ebooks/75150
